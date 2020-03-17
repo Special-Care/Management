@@ -153,7 +153,6 @@
 												<td>${permission.permissionName}</td>
 												<td>${permission.url}</td>
 											</tr>
-
 										</c:forEach>
 									</c:forEach>
 								</tbody>
