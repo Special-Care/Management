@@ -22,7 +22,7 @@
         <spring.version>5.2.0.RELEASE</spring.version>
         <slf4j.version>1.7.25</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
-        <mysql.version>8.0.15</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <mybatis.version>3.5.3</mybatis.version>
         <spring.security.version>5.1.5.RELEASE</spring.security.version>
     </properties>
